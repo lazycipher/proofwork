@@ -1,0 +1,18 @@
+# Dependencies
+venv/
+
+# Environment variables
+.env
+
+# Build artifacts
+build/
+*.bin
+*.abi
+*.json
+
+# Logs/Internal
+logs/
+.openclaw/
+
+# Secrets/Sensitive
+*.secret
